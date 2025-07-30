@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "UE5ClimbableSystemEditor Editor Win64 Development (UE5ClimbableSystem)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\.vscode\\compileCommands_UE5ClimbableSystem.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}

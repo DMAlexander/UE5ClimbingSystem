@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5ClimbableSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UE5ClimbableSystemEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystem.init.gen.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystemCharacter.gen.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystemGameMode.gen.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystem.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystemCharacter.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UE5ClimbableSystemGameMode.cpp.obj"
+"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\Default.rc2.res"
+/OUT:"C:\Users\alexa\Documents\UnrealProjects\UE5ClimbableSystem\Intermediate\Build\Win64\UnrealEditor\Development\UE5ClimbableSystem\UnrealEditor-UE5ClimbableSystem.lib"

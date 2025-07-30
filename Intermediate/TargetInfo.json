@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5ClimbableSystem",
+			"Path": "C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\Source\\UE5ClimbableSystem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5ClimbableSystemEditor",
+			"Path": "C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\Source\\UE5ClimbableSystemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

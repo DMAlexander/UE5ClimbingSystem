@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\Source\\UE5ClimbableSystem\\UE5ClimbableSystem.Build.cs",
+		"C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\Source\\UE5ClimbableSystem.Target.cs",
+		"C:\\Users\\alexa\\Documents\\UnrealProjects\\UE5ClimbableSystem\\Source\\UE5ClimbableSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
